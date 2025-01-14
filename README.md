@@ -8,4 +8,4 @@
 
   I will share here some of my personnal projects. You can ask me any question about them by openning a pull request. Any feedback would be very appreciated to help me to improve myself
 
-  I also participate to the Ia-z and Franceia projects. [Here](https://github.com/ia-z/ia-z) is the repository of the Ia-z project. More informations about the France ia project on [Defend Intelligence community discord server](https://discord.gg/URt5a5dCTt).
+  I also participate to Eos project. Have a look on our website : [https://www.eos-projets.fr/](https://www.eos-projets.fr/) and our [Github organization](https://github.com/eos-projets)
